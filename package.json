@@ -1,0 +1,24 @@
+{
+  "name": "projeto-aula",
+  "version": "1.0.0",
+  "description": "projeto aula",
+  "main": "indexx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zezinho8000/Projeto-aula.git"
+  },
+  "keywords": [
+    "aula",
+    "node",
+    "npm"
+  ],
+  "author": "Alysoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zezinho8000/Projeto-aula/issues"
+  },
+  "homepage": "https://github.com/zezinho8000/Projeto-aula#readme"
+}
